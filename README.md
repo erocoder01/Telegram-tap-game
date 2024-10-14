@@ -27,6 +27,18 @@ Welcome to the **Tap-to-Earn** game, a highly successful and engaging Telegram-b
 - Manage the game easily with a full-featured **admin panel**:
   - **Publish Tasks**: Admins can create and assign tasks for users to complete in exchange for coins.
   - **Monitor Player Activity**: Track user progression, task completion, and boost usage.
+ 
+### Images and Videos
+
+https://github.com/user-attachments/assets/9ed1374b-2b6f-4553-8444-b0810366d8bb
+![WhatsApp Image 2024-09-10 at 11 20 26 PM](https://github.com/user-attachments/assets/dfa92de0-8382-4086-8f9a-8e7c94868b3a)
+![WhatsApp Image 2024-09-16 at 8 11 36 PM](https://github.com/user-attachments/assets/39994cfe-8a44-45f6-b462-ccf836bdaa47)
+![WhatsApp Image 2024-09-18 at 3 51 21 AM](https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e)
+![WhatsApp Image 2024-09-11 at 1 38 43 PM](https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1)
+![WhatsApp Image 2024-09-10 at 8 33 37 PM](https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419)
+![WhatsApp Image 2024-09-16 at 6 38 16 PM](https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4)
+
+
 
 ## For Sale
 
