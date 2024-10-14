@@ -26,7 +26,6 @@ Welcome to the **Tap-to-Earn** game, a highly successful and engaging Telegram-b
 ### Admin Panel
 - Manage the game easily with a full-featured **admin panel**:
   - **Publish Tasks**: Admins can create and assign tasks for users to complete in exchange for coins.
-  - **Manage Boosts**: Control which boosts are available for users to purchase or unlock.
   - **Monitor Player Activity**: Track user progression, task completion, and boost usage.
 
 ## For Sale
