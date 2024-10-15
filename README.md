@@ -30,13 +30,39 @@ Welcome to the **Tap-to-Earn** game, a highly successful and engaging Telegram-b
  
 ### Images and Videos
 
-https://github.com/user-attachments/assets/9ed1374b-2b6f-4553-8444-b0810366d8bb
-![WhatsApp Image 2024-09-10 at 11 20 26 PM](https://github.com/user-attachments/assets/dfa92de0-8382-4086-8f9a-8e7c94868b3a)
-![WhatsApp Image 2024-09-16 at 8 11 36 PM](https://github.com/user-attachments/assets/39994cfe-8a44-45f6-b462-ccf836bdaa47)
-![WhatsApp Image 2024-09-18 at 3 51 21 AM](https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e)
-![WhatsApp Image 2024-09-11 at 1 38 43 PM](https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1)
-![WhatsApp Image 2024-09-10 at 8 33 37 PM](https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419)
-![WhatsApp Image 2024-09-16 at 6 38 16 PM](https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4)
+### Images and Videos
+
+<!-- Video -->
+<video width="400" controls>
+  <source src="https://github.com/user-attachments/assets/9ed1374b-2b6f-4553-8444-b0810366d8bb" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- Images -->
+<a href="https://github.com/user-attachments/assets/dfa92de0-8382-4086-8f9a-8e7c94868b3a">
+  <img src="https://github.com/user-attachments/assets/dfa92de0-8382-4086-8f9a-8e7c94868b3a" width="400"/>
+</a>
+
+<a href="https://github.com/user-attachments/assets/39994cfe-8a44-45f6-b462-ccf836bdaa47">
+  <img src="https://github.com/user-attachments/assets/39994cfe-8a44-45f6-b462-ccf836bdaa47" width="400"/>
+</a>
+
+<a href="https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e">
+  <img src="https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e" width="400"/>
+</a>
+
+<a href="https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1">
+  <img src="https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1" width="400"/>
+</a>
+
+<a href="https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419">
+  <img src="https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419" width="400"/>
+</a>
+
+<a href="https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4">
+  <img src="https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4" width="400"/>
+</a>
+
 
 
 
