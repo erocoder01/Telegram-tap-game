@@ -32,11 +32,8 @@ Welcome to the **Tap-to-Earn** game, a highly successful and engaging Telegram-b
 
 ### Images and Videos
 
-<!-- Video -->
-<video width="400" controls>
-  <source src="https://github.com/user-attachments/assets/9ed1374b-2b6f-4553-8444-b0810366d8bb" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://github.com/user-attachments/assets/9ed1374b-2b6f-4553-8444-b0810366d8bb)
+
 
 <!-- Images -->
 <a href="https://github.com/user-attachments/assets/dfa92de0-8382-4086-8f9a-8e7c94868b3a">
@@ -48,19 +45,19 @@ Welcome to the **Tap-to-Earn** game, a highly successful and engaging Telegram-b
 </a>
 
 <a href="https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e">
-  <img src="https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e" width="400"/>
+  <img src="https://github.com/user-attachments/assets/084cbf69-734b-4a03-a500-46a2f2f8ad4e" height="400"/>
 </a>
 
 <a href="https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1">
-  <img src="https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c9416c7d-dccb-496f-ac88-b66f9969d0e1" height="400"/>
 </a>
 
 <a href="https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419">
-  <img src="https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ba339341-5df1-497c-a8b8-ce1af9b6a419" height="400"/>
 </a>
 
 <a href="https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4">
-  <img src="https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b4850dfe-598c-4885-bb1f-df1e3d0f6fa4" height="400"/>
 </a>
 
 
